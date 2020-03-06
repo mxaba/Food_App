@@ -45,5 +45,5 @@ branch off this repository
 Run `npm test` in the terminal for the cloned folder.
 ## Built With
 * [Node.js](http://www.nodejs.org/) - Runtime-Enviroment
-## Authors
+## Author
 * **Mcebo Samuel Xaba**
