@@ -2,14 +2,14 @@
     "openapi": "3.0.0",
     "info": {
         "version": "1.0.0",
-        "title": "My-Meal-App",
+        "title": "Food_App",
         "description": "Meal Booking Application",
         "license": {
             "name": "MIT",
             "url": "https://opensource.org/licenses/MIT"
         },
         "contact": {
-            "email": "davidfrank96.df@gmail.com"
+            "email": "mxaba.df@gmail.com"
         }
     },
     "tags": [
